@@ -1,3 +1,4 @@
+![Uploading Screenshot (152).png…]()
 # Recipe Finder Application
 
 A simple and responsive web application for finding recipes based on the name of a dish. This project utilizes **HTML**, **CSS**, and **JavaScript**, along with the **TheMealDB API** to fetch recipe details.
