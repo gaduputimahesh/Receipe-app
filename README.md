@@ -17,7 +17,7 @@ A simple and responsive web application for finding recipes based on the name of
 - **TheMealDB API**: For fetching recipe data.
 
 .
-
+# Demo
 ![Screenshot (152)](https://github.com/user-attachments/assets/dccdffd2-ec39-471f-831c-8ff1d0477024)
 
 
